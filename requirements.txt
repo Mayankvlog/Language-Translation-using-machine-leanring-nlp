@@ -1,0 +1,4 @@
+googletrans==4.0.0rc1
+langdetect==1.0.9
+nltk==3.7
+streamlit==1.37.0
