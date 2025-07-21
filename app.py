@@ -52,3 +52,4 @@ if st.button('Translate'):
     else:
         st.warning("Please enter some text to translate.")
 
+
